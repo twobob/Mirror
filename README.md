@@ -46,7 +46,7 @@ Making multiplayer games this way is fun & easy. Instead of MonoBehaviour, Mirro
 * **[SyncVar]** / SyncList to automatically synchronize variables from Server->Client
 
 ## Getting Started
-Get **Unity 2019 LTS**, download [Mirror on the Asset Store](https://assetstore.unity.com/packages/tools/network/mirror-129321), open one of the examples & press Play!
+Get **Unity 2019 LTS**, download [Mirror on the Asset Store](https://assetstore.unity.com/packages/tools/network/mirror-129321), open one of the examples & press Play! (Asset store package has a minimum marked version of 2020.3.26 or higher)
 
 Check out our [Documentation](https://mirror-networking.gitbook.io/) to learn how it all works.
 
